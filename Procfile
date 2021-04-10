@@ -1,1 +1,1 @@
-web: java -jar -Dspring.profiles.active=pdn build/libs/rosetabackend-1.0.0-SNAPSHOT.jar
+web: java -jar -Dspring.profiles.active=pdn target/rosetabackend-1.0.0-SNAPSHOT.jar
